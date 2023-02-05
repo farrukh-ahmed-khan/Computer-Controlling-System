@@ -1,0 +1,21 @@
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.exe.config
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.exe
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.pdb
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.csprojAssemblyReference.cache
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.exe
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.pdb
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\bin\Debug\RashidProject_OS.exe.config
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\bin\Debug\RashidProject_OS.exe
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\bin\Debug\RashidProject_OS.pdb
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.AssemblyReference.cache
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.CoreCompileInputs.cache
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\obj\Debug\RashidProject_OS.exe
+C:\Users\Areesha Waseem\Desktop\RashidProject_OS\obj\Debug\RashidProject_OS.pdb
+E:\fall 22\OS project\RashidProject_OS\bin\Debug\RashidProject_OS.exe.config
+E:\fall 22\OS project\RashidProject_OS\bin\Debug\RashidProject_OS.exe
+E:\fall 22\OS project\RashidProject_OS\bin\Debug\RashidProject_OS.pdb
+E:\fall 22\OS project\RashidProject_OS\obj\Debug\RashidProject_OS.csprojAssemblyReference.cache
+E:\fall 22\OS project\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.CoreCompileInputs.cache
+E:\fall 22\OS project\RashidProject_OS\obj\Debug\RashidProject_OS.exe
+E:\fall 22\OS project\RashidProject_OS\obj\Debug\RashidProject_OS.pdb

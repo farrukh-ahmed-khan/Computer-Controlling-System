@@ -1,0 +1,7 @@
+E:\fall 22\OS project\Project_OS\bin\Debug\RashidProject_OS.exe.config
+E:\fall 22\OS project\Project_OS\bin\Debug\RashidProject_OS.exe
+E:\fall 22\OS project\Project_OS\bin\Debug\RashidProject_OS.pdb
+E:\fall 22\OS project\Project_OS\obj\Debug\Project_OS.csprojAssemblyReference.cache
+E:\fall 22\OS project\Project_OS\obj\Debug\Project_OS.csproj.CoreCompileInputs.cache
+E:\fall 22\OS project\Project_OS\obj\Debug\RashidProject_OS.exe
+E:\fall 22\OS project\Project_OS\obj\Debug\RashidProject_OS.pdb
